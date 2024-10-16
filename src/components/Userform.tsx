@@ -37,7 +37,7 @@ const UserForm: React.FC = () => {
     };
 
     try {
-      const response = await fetch('https://crud-df435lblq-khizar3333s-projects.vercel.app/api/users ', {
+      const response = await fetch('https://crud-4nvwmhx4y-khizar3333s-projects.vercel.app/api/users ', {
       // const response = await fetch('http://localhost:5000/api/users', {
 
         method: 'POST',
